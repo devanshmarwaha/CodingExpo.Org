@@ -321,7 +321,6 @@ h1, h2, h3, h4, h5,
       .site-navbar .site-navigation .site-menu .has-children .dropdown {
         visibility: hidden;
         opacity: 0;
-        left: -100%;
         top: 100%;
         position: absolute;
         text-align: left;
