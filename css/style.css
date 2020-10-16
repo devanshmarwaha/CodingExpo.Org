@@ -366,11 +366,11 @@ h1, h2, h3, h4, h5,
           list-style: none;
           padding: 0;
           margin: 0;
-          min-width: 400px; }
+          min-width: 470px; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a {
-            padding: 9px 20px;
-			      width:200px;
-			      float:left;
+            padding: 5px 10px;
+    	    width: 235px;
+            float: left;
             display: block; }
             .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a:hover {
               background: #f4f5f9;
