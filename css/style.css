@@ -1795,3 +1795,42 @@ h1, h2, h3, h4, h5,
   .post-meta a {
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
+
+.box h1 {
+    background-color: #24cfba;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.box input[type=text] {
+    width: 80%;
+    outline: none;
+}
+
+.box input[type=password] {
+    width: 80%;
+    outline: none;
+}
+
+.box {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.box button[type=submit] {
+    background-color: #24cfba;
+    border: none;
+    color: white;
+    width: 80%;
+    padding: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+}
