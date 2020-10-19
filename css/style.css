@@ -1835,3 +1835,86 @@ h1, h2, h3, h4, h5,
     font-weight: 600;
     font-size: 18px;
 }
+
+.icon {
+    font-size: 90px;
+}
+
+.admin,
+.intern {
+    text-align: center;
+    border-color: #333333;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.intern h1 {
+    text-align: left;
+    padding: 10px;
+    border-bottom-width: 1px;
+    border-bottom-color: #333333;
+    border-bottom-style: solid;
+}
+
+.icon1 {
+    color: green;
+    margin-top: -0.5em;
+    border-bottom-width: 1px;
+    border-bottom-color: #333333;
+    border-bottom-style: solid;
+}
+
+#nav-list li {
+    text-align: center;
+    padding: 10px;
+}
+
+#nav-list a {
+    color: #000;
+    font-size: 20px;
+}
+
+#nav-list a:hover {
+    color: #23c6b2;
+}
+
+.admin h2 {
+    margin-top: -1em;
+}
+
+.box1 input[type=text] {
+    width: 80%;
+    outline: none;
+}
+
+.box1 input[type=password] {
+    width: 80%;
+    outline: none;
+}
+
+.box1 input[type=date] {
+    width: 80%;
+    outline: none;
+}
+
+.box1 input[type=email] {
+    width: 80%;
+    outline: none;
+}
+
+.box1 input[type=tel] {
+    width: 80%;
+    outline: none;
+}
+
+.box1 button[type=submit] {
+    outline: none;
+    background-color: #24cfba;
+    border: none;
+    color: white;
+    width: 30%;
+    padding: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+}
